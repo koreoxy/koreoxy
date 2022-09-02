@@ -4,8 +4,9 @@
 ### Welcom to My Profile Github 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreoxy&show_icons=true&theme=merko)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21qlakidcw5yxyttkgnrgo6fy&unique={true|1|on|yes})
 
-<--
+
 
 
 - 🔭 I’m currently working on ...
@@ -16,7 +17,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreoxy&layout=compact)](https://github.com/koreoxy/github-readme-stats)
 
