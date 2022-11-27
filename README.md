@@ -7,7 +7,7 @@
   
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=koreoxy&show_icons=true&theme=dark" alt="ovi" width="400"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=koreoxy&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" width="390" />
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=koreoxy&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" width="380" />
 </p>
 <br><br><br><br><br><br>
 
