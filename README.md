@@ -1,12 +1,11 @@
-
-![header](https://user-images.githubusercontent.com/73381115/188129270-b95380b4-bed6-421d-8685-e77e856d667a.png)
-![banner(3)](https://user-images.githubusercontent.com/73381115/188168774-c851106e-d0c3-4e54-a73b-954571c13adc.png)
+![header](https://user-images.githubusercontent.com/73381115/204138853-7e2a6e0c-9804-4224-a786-23eea0f4c26b.png)
 
 
 
 
 
-### Welcom to My Profile Github 👋
+
+### Welcome to My Profile Github 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreoxy&show_icons=true&theme=merko)
 
 
