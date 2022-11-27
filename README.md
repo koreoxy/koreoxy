@@ -6,7 +6,7 @@
 <p align="center"><b>Welcome to My Profile Github 👋</b></p>
   
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=koreoxy&show_icons=true&theme=dark" alt="ovi" width="510"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=koreoxy&show_icons=true&theme=dark" alt="ovi" width="310"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=koreoxy&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" width="310" />
 </p>
 <br><br><br><br><br><br>
