@@ -3,13 +3,19 @@
 
 
 
+<p align="center"><b>Welcome to My Profile Github 👋</b></p>
+  
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=koreoxy&show_icons=true&theme=dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=koreoxy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="410" />
+</p>
+<br><br><br><br><br><br>
+
+<hr>
 
 
-### Welcome to My Profile Github 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreoxy&show_icons=true&theme=merko)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreoxy&layout=compact)](https://github.com/koreoxy/github-readme-stats)
 
 
 
