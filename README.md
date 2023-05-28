@@ -6,9 +6,8 @@
 <table>
 <tbody>
 <td align="center">
- <img width="0" height="0"><b>김태리</b><br>
+ <b>김태리</b><br>
 <sub>사랑은 아름다운 음악과 같습니다. 차이점은 음악이 오랫동안 멈췄더라도 진정한 사랑은 계속 춤을 추게 한다는 것입니다.</sub><br>
-<img width="2000" height="0">
 </td>
 </tbody>
 </table>
