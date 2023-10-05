@@ -1,7 +1,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkoreoxy&countColor=%23697689&style=flat-square&labelStyle=upper)
 <hr>
 
-![204138853-7e2a6e0c-9804-4224-a786-23eea0f4c26b-removebg](https://github.com/koreoxy/koreoxy/assets/73381115/721ea4b7-ed62-49e0-bb8b-5bcb7860ee51)
+![204138853-7e2a6e0c-9804-4224-a786-23eea0f4c26b](https://github.com/koreoxy/koreoxy/assets/73381115/686b5687-5acb-48b7-8e68-bbba8872fa2e)
+
 
 <div align="center">
 <table>
