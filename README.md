@@ -4,8 +4,6 @@
 Hi 👋 My name is Saifullah
 ==========================
 
-Web Developer
--------------
 
 I am interested in web development
 
