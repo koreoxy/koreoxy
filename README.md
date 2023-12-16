@@ -9,7 +9,7 @@ I am interested in web development
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [My Personal Web](http://koreoxy.netlify.app/)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning web dev
 
 ### Skills
 
