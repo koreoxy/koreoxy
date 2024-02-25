@@ -3,9 +3,9 @@
 
 <a href="https://discord.com/users/266203900816654336"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/266203900816654336?&borderRadius=8px"/></a>
 
-## 📋 My Profile
+## 📋 Ruin
 
-I am interested in web development
+I am thanos
 <br/>
 Brhhahhhhhhhhh
 <br/>
