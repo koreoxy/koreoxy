@@ -7,9 +7,7 @@
 
 I am interested in web development
 <br/>
-🌍 I'm based in Indonesia
-<br/>
-🧠 I'm learning web dev
+Brhhahhhhhhhhh
 <br/>
 <br/>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkoreoxy&countColor=%23697689&style=flat-square&labelStyle=upper)
