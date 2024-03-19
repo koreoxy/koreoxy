@@ -6,19 +6,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 18 March 2024
+From: 23 October 2023 - To: 19 March 2024
 
-Total Time: 209 hrs 2 mins
+Total Time: 211 hrs 16 mins
 
-JavaScript         145 hrs 21 mins █████████████████▒░░░░░░░   69.26 %
-TypeScript         28 hrs 52 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Astro              9 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-CSS                4 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Bash               2 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Markdown           2 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-C++                2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-SQL                1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Rust               1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript         145 hrs 21 mins █████████████████░░░░░░░░   68.53 %
+TypeScript         31 hrs 6 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Astro              9 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+CSS                4 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Bash               2 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Markdown           2 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+C++                2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+SQL                1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Rust               1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
