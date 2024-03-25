@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 24 March 2024
+From: 23 October 2023 - To: 25 March 2024
 
-Total Time: 219 hrs 40 mins
+Total Time: 220 hrs 29 mins
 
-JavaScript         145 hrs 32 mins ████████████████░░░░░░░░░   64.04 %
-TypeScript         38 hrs 59 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
-Astro              9 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Other              7 hrs 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+JavaScript         145 hrs 34 mins ████████████████░░░░░░░░░   63.82 %
+TypeScript         39 hrs 41 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+Astro              9 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Other              7 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
