@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 28 May 2024
+From: 23 October 2023 - To: 29 May 2024
 
-Total Time: 319 hrs 6 mins
+Total Time: 319 hrs 9 mins
 
-JavaScript         152 hrs 7 mins  ████████▒░░░░░░░░░░░░░░░░   33.99 %
-Other              128 hrs 30 mins ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+JavaScript         152 hrs 7 mins  ████████▒░░░░░░░░░░░░░░░░   33.45 %
+Other              135 hrs 35 mins ███████▒░░░░░░░░░░░░░░░░░   29.82 %
 ```
 
 <!--END_SECTION:waka-->
