@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 14 June 2024
+From: 23 October 2023 - To: 15 June 2024
 
-Total Time: 320 hrs 48 mins
+Total Time: 321 hrs 45 mins
 
-Other              231 hrs 27 mins ██████████▒░░░░░░░░░░░░░░   41.91 %
+Other              238 hrs         ██████████▓░░░░░░░░░░░░░░   42.52 %
 ```
 
 <!--END_SECTION:waka-->
