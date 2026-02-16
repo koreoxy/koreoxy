@@ -1,6 +1,6 @@
 <div>
-<h1 align="left">Night</h1>
-<img src="https://i.imgur.com/SRTQWhh.png"/>
+<h1 align="center"><b>≽^•⩊•^≼</b></h1>
+<img src="https://i.imgur.com/M3phxdF.jpeg"/>
 
 
 <br/>
